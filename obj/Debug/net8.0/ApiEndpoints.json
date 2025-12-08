@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "Employees.System.Controllers.EmployeesController",
+    "Method": "GetRecords",
+    "RelativePath": "api/employees",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Employees.System.Controllers.EmployeesController",
+    "Method": "SaveRecordAsync",
+    "RelativePath": "api/employees",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Employees.System.Models.EmployeeRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
