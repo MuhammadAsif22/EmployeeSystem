@@ -26,7 +26,6 @@ C:\Users\Hope\source\repos\Employees.System\Employees.System\obj\Debug\net8.0\st
 C:\Users\Hope\source\repos\Employees.System\Employees.System\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\Hope\source\repos\Employees.System\Employees.System\obj\Debug\net8.0\staticwebassets.build.endpoints.json
 C:\Users\Hope\source\repos\Employees.System\Employees.System\obj\Debug\net8.0\swae.build.ex.cache
-C:\Users\Hope\source\repos\Employees.System\Employees.System\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\Hope\source\repos\Employees.System\Employees.System\obj\Debug\net8.0\Employee.1588FE7F.Up2Date
 C:\Users\Hope\source\repos\Employees.System\Employees.System\obj\Debug\net8.0\Employees.System.dll
 C:\Users\Hope\source\repos\Employees.System\Employees.System\obj\Debug\net8.0\refint\Employees.System.dll
@@ -36,3 +35,5 @@ C:\Users\Hope\source\repos\Employees.System\Employees.System\obj\Debug\net8.0\re
 C:\Users\Hope\source\repos\Employees.System\Employees.System\bin\Debug\net8.0\FluentValidation.dll
 C:\Users\Hope\source\repos\Employees.System\Employees.System\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
 C:\Users\Hope\source\repos\Employees.System\Employees.System\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Hope\source\repos\Employees.System\Employees.System\obj\Debug\net8.0\Employees.System.sourcelink.json
+C:\Users\Hope\source\repos\Employees.System\Employees.System\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
