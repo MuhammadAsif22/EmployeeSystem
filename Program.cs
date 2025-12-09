@@ -1,6 +1,7 @@
 using FluentValidation;
 using Employees.System.Services;
 using FluentValidation.AspNetCore;
+using Employees.System.Middleware;
 using Employees.System.Services.Interfaces;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -23,6 +24,8 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddScoped<IDataService, DataService>();
 
 var app = builder.Build();
+
+app.UseMiddleware<GlobalExceptionMiddleware>();
 
 // Swagger
 if (app.Environment.IsDevelopment())
